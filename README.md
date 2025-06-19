@@ -10,15 +10,21 @@ Bạn có thể giảm 40-50% thời gian viết báo cáo, tăng tốc độ ng
 
 Sau khóa học, người học sẽ nhận được 4 giá trị:
 •	Nắm vững các khái niệm cốt lõi và các nhóm AI phổ biến.
+
 •	Làm chủ kỹ thuật Prompt Engineering theo cấu trúc CREATE để giao việc cho AI hiệu quả.
+
 •	Sử dụng thành thạo các công cụ AI phổ biến (ChatGPT, Gemini) và chuyên sâu (NotebookLM, AI Studio…) để xử lý công việc hằng ngày.
+
 •	Biết cách xây dựng một "cơ sở tri thức cá nhân hóa" từ tài liệu công việc để tra cứu và hỏi-đáp nhanh chóng.
 
 **III.	METHODS OF TRAINING - PHƯƠNG PHÁP ĐÀO TẠO**
 
 •	Thảo luận nhóm
+
 •	Bài tập cá nhân
+
 •	Động não/Lấy ý kiến nhanh
+
 •	Ví dụ minh họa
  
 **IV.	PROGRAM CONTENTS - NỘI DUNG KHÓA HỌC**
@@ -33,6 +39,9 @@ Sau khóa học, người học sẽ nhận được 4 giá trị:
 
 **V.	DỰ ÁN THỰC HIỆN TRONG CHƯƠNG TRÌNH ĐÀO TẠO**
 •	DỰ ÁN 1: Brainstorm - Xây dựng kế hoạch công việc chi tiết
+
 •	DỰ ÁN 2: Ứng dụng thu thập dữ liệu từ nhiều nguồn khác nhau.
+
 •	DỰ ÁN 3: Tóm tắt cuộc họp & hành động
+
 •	DỰ ÁN 4: Tạo hình ảnh truyền thông / quảng cáo cho một sự kiện tại Kim Tín
