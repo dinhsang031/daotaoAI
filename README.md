@@ -9,6 +9,7 @@ Bạn có thể giảm 40-50% thời gian viết báo cáo, tăng tốc độ ng
 **II.	VALUES OF COURSE - GIÁ TRỊ CỦA KHÓA HỌC (A.S.K)**
 
 Sau khóa học, người học sẽ nhận được 4 giá trị:
+
 •	Nắm vững các khái niệm cốt lõi và các nhóm AI phổ biến.
 
 •	Làm chủ kỹ thuật Prompt Engineering theo cấu trúc CREATE để giao việc cho AI hiệu quả.
@@ -38,6 +39,7 @@ Sau khóa học, người học sẽ nhận được 4 giá trị:
 **BUỔI 4** (TÙY CHỌN): SÁNG TẠO NỘI DUNG VỚI AI
 
 **V.	DỰ ÁN THỰC HIỆN TRONG CHƯƠNG TRÌNH ĐÀO TẠO**
+
 •	DỰ ÁN 1: Brainstorm - Xây dựng kế hoạch công việc chi tiết
 
 •	DỰ ÁN 2: Ứng dụng thu thập dữ liệu từ nhiều nguồn khác nhau.
