@@ -24,8 +24,11 @@ Sau khóa học, người học sẽ nhận được 4 giá trị:
 **IV.	PROGRAM CONTENTS - NỘI DUNG KHÓA HỌC**
 
 **BUỔI 1**: NỀN TẢNG AI & PROMPT CƠ BẢN
+
 **BUỔI 2**: ỨNG DỤNG AI NÂNG CAO & LẬP KẾ HOẠCH  
+
 **BUỔI 3**: XÂY DỰNG "BỘ NÃO THỨ HAI" & TỰ ĐỘNG HÓA
+
 **BUỔI 4** (TÙY CHỌN): SÁNG TẠO NỘI DUNG VỚI AI
 
 **V.	DỰ ÁN THỰC HIỆN TRONG CHƯƠNG TRÌNH ĐÀO TẠO**
